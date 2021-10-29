@@ -7,7 +7,7 @@ So, as a data engineer my job was to build an ETL pipeline to extract data from 
 Designing database schema and creating an ETL pipeline.
 ===============
 
-In the this datawarehouse project, Database schema was designed in such a way that the analysis as well as data retrieval part become easy for the analytics team of sparkify. I created 5 analytics tables with relevant table optimization techniques.<br>
+In this datawarehouse project, database schema was designed in such a way that the analysis as well as data retrieval part become easy for the analytics team of sparkify. I created 5 analytics tables with relevant table optimization techniques.<br>
 
 ***Steps went into creating an ETL pipeline were:***<br>
 
